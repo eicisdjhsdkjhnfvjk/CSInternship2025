@@ -46,6 +46,10 @@
 ## 实习信息列表
 ### 软件开发
 ### 算法
+| 公司 | 职位 | Base | 类型 | 投递/内推 | 截止日期 | 备注 |
+| :--- | :--- | :--- | :--- | :--- |:--- | :--- |
+| Xiaomi | 语音基座模型实习生 | 北京 | 日常/校招 | - | - | 日常/校招，[联系方式/岗位信息]([https://vrfi1sk8a0.jobs.feishu.cn/s/_YPe2HeFbp4](https://github.com/CS-BAOYAN/CSInternship2025/blob/main/Info/Xiaomi-Speech.md)) |
+
 ### 前端
 ### 后端
 ### 数据科学
