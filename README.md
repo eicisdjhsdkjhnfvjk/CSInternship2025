@@ -54,13 +54,13 @@
 
 | 公司           | 职位           | Base           | 类型 | 投递/内推                                                    | 截止日期 | 备注                                          |
 | :------------- | :------------- | :------------- | :--- | :----------------------------------------------------------- | :------- | :-------------------------------------------- |
-| EmotionMachine | 前端开发实习生 | 北京（可远程） | 实习 | [投递链接](https://rcnpx636fedp.feishu.cn/wiki/BxtVwAc0siV0xrkCbPTcldBEnNP?from=from_copylink) | -        | [投递链接/岗位信息](./info/EmotionMachine.md) |
+| EmotionMachine | 前端开发实习生 | 北京（可远程） | 实习 | [投递链接](https://rcnpx636fedp.feishu.cn/wiki/BxtVwAc0siV0xrkCbPTcldBEnNP?from=from_copylink) | -        | [投递链接/岗位信息](./Info/EmotionMachine.md) |
 
 ### 后端
 
 | 公司           | 职位           | Base           | 类型 | 投递/内推                                                    | 截止日期 | 备注                                          |
 | :------------- | :------------- | :------------- | :--- | :----------------------------------------------------------- | :------- | :-------------------------------------------- |
-| EmotionMachine | 后端开发实习生 | 北京（可远程） | 实习 | [投递链接](https://rcnpx636fedp.feishu.cn/wiki/BxtVwAc0siV0xrkCbPTcldBEnNP?from=from_copylink) | -        | [投递链接/岗位信息](./info/EmotionMachine.md) |
+| EmotionMachine | 后端开发实习生 | 北京（可远程） | 实习 | [投递链接](https://rcnpx636fedp.feishu.cn/wiki/BxtVwAc0siV0xrkCbPTcldBEnNP?from=from_copylink) | -        | [投递链接/岗位信息](./Info/EmotionMachine.md) |
 
 ### 数据科学
 ### 产品
