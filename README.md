@@ -51,7 +51,17 @@
 | Xiaomi | 语音基座模型实习生 | 北京 | 日常/校招 | - | - | 日常/校招，[联系方式/岗位信息](https://github.com/CS-BAOYAN/CSInternship2025/blob/main/Info/Xiaomi-Speech.md) |
 
 ### 前端
+
+| 公司           | 职位           | Base           | 类型 | 投递/内推                                                    | 截止日期 | 备注                                          |
+| :------------- | :------------- | :------------- | :--- | :----------------------------------------------------------- | :------- | :-------------------------------------------- |
+| EmotionMachine | 前端开发实习生 | 北京（可远程） | 实习 | [投递链接](https://rcnpx636fedp.feishu.cn/wiki/BxtVwAc0siV0xrkCbPTcldBEnNP?from=from_copylink) | -        | [投递链接/岗位信息](./info/EmotionMachine.md) |
+
 ### 后端
+
+| 公司           | 职位           | Base           | 类型 | 投递/内推                                                    | 截止日期 | 备注                                          |
+| :------------- | :------------- | :------------- | :--- | :----------------------------------------------------------- | :------- | :-------------------------------------------- |
+| EmotionMachine | 后端开发实习生 | 北京（可远程） | 实习 | [投递链接](https://rcnpx636fedp.feishu.cn/wiki/BxtVwAc0siV0xrkCbPTcldBEnNP?from=from_copylink) | -        | [投递链接/岗位信息](./info/EmotionMachine.md) |
+
 ### 数据科学
 ### 产品
 ### 公司
@@ -60,10 +70,6 @@
 | :--- | :--- | :--- | :--- | :--- |:--- | :--- |
 | MiniMax | - | 上海/北京/深圳/成都 | 日常/校招/社招 | [官网链接](https://www.minimaxi.com/) / 内推码`88TREXA` | - | 日常/校招/社招，[投递链接/岗位信息](https://vrfi1sk8a0.jobs.feishu.cn/s/_YPe2HeFbp4) |
 | DeepWisdom | Research Engineer Intern | 优先深圳线下，可接受优秀远程候选人 | 实习 | [官网链接](https://www.deepwisdom.ai/)  | 2025年底 | [JD及投递简介](https://github.com/CS-BAOYAN/CSInternship2025/blob/main/Info/DeepWisdom-Research-Engineer-Intern.md) |
-
-
-
-
 
 
 
