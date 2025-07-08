@@ -49,6 +49,10 @@
 | 公司 | 职位 | Base | 类型 | 投递/内推 | 截止日期 | 备注 |
 | :--- | :--- | :--- | :--- | :--- |:--- | :--- |
 | Xiaomi | 语音基座模型实习生 | 北京 | 日常/校招 | - | - | 日常/校招，[联系方式/岗位信息](https://github.com/CS-BAOYAN/CSInternship2025/blob/main/Info/Xiaomi-Speech.md) |
+| 京东集团 | 多模态语音交互基础大模型算法研究 | 北京 | 日常实习/校招 | [官网链接](https://campus.jd.com/#/details?id=6214) / 内推，发送简历到`zengjia.gaga@jd.com` | 见官网 | [联系方式/岗位信息](https://github.com/CS-BAOYAN/CSInternship2025/blob/main/Info/Jindong-Speech.md)  |
+| 京东集团 | TTS：根据指令，生成语音、音乐等多类型音频 | 北京 | 日常实习/校招 | [官网链接](https://campus.jd.com/#/details?id=6212) / 内推，发送简历到`zengjia.gaga@jd.com` | 见官网 | [联系方式/岗位信息](https://github.com/CS-BAOYAN/CSInternship2025/blob/main/Info/Jindong-Speech.md) |
+| 京东集团 | OmniDialogue：全模态理解和语音对话大模型 | 北京 | 日常实习/校招 | [官网链接](https://campus.jd.com/#/details?id=6206) / 内推，发送简历到`zengjia.gaga@jd.com` | 见官网 | [联系方式/岗位信息](https://github.com/CS-BAOYAN/CSInternship2025/blob/main/Info/Jindong-Speech.md) |
+| 京东集团 | 语音驱动下的数字人唇形、表情和肢体动作一体化视频生成研究与应用 | 北京 |日常实习/校招 | [官网链接](https://campus.jd.com/#/details?id=6204) / 内推，发送简历到`zengjia.gaga@jd.com` | 见官网 | [联系方式/岗位信息](https://github.com/CS-BAOYAN/CSInternship2025/blob/main/Info/Jindong-Speech.md) |
 
 ### 前端
 
